@@ -29,3 +29,18 @@ section{
     background-image:url(images/top-banner.png) ;
     background-repeat: no-repeat;
 }
+.konika{
+    width: 50%;
+}
+.konika img{
+    width:90%;
+}
+.rafiun{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.israt{
+    margin:90px 0px;
+
+}
