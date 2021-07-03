@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.peter{
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.arif{
+    width: 50%;
+    text-align: justify;
+    padding: 15px;
+}
+.arif img{
+    width: 80%;
+}
+.robi{
+    text-decoration: none;
+    background-image:linear-gradient(hotpink,purple);
+    border-radius: 5px;
+    padding:9px;
+}
+.vabna{
+    background-image:url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+}
