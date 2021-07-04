@@ -8,7 +8,7 @@ h1{
 .peter{
     color: crimson;
 }
-section{
+.midu{
     display: flex;
 }
 .arif{
@@ -43,4 +43,43 @@ section{
 .israt{
     margin:90px 0px;
 
+}
+.raku{
+    display: flex;
+    text-align: justify;
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+    height: 90%;
+    width:95% ;
+
+
+}
+.monu{
+    width:50% ;
+    padding: 30px;
+    box-shadow: 10px 10px 40px  gray;
+    margin:25px;
+    
+
+}
+.chi{
+    margin: 30px;
+    border-radius:40px ;
+    border-left: 8px solid lightseagreen;
+    
+}
+.piku{
+margin: 30px;
+border-radius: 40px;
+border-left: 8px solid lightseagreen;
+}
+
+.sai{
+    color:crimson;
+}
+.hh{
+    color:rgb(96, 88, 141)
+}
+footer p{
+    text-align: center;
 }
